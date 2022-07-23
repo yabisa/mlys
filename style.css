@@ -96,7 +96,7 @@ h1 {
 
 .time,
 .score {
-  position: absolute;
+  position: relative;
   top: 20px;
 }
 
