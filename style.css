@@ -96,16 +96,18 @@ h1 {
 
 .time,
 .score {
-  position: relative;
-  top: 10px;
+  position: absolute;
+  top: 20px;
 }
 
 .time {
-  left: 10px;
+  left: 20px;
+  font-size: 15px;
 }
 
 .score {
-  right: 10px;
+  right: 20px;
+  font-size: 15px;
 }
 
 .message {
